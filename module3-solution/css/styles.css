@@ -1,0 +1,28 @@
+body {
+    font-size: 16px;
+    color: #492828;
+    background-color: #FFFDE1;
+    font-family: "Zalando Sans SemiExpanded", sans-serif;
+}
+
+/** HEADER**/
+#header-nav {
+    background-color: #FBE580;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand h1 { /* Food brand name */
+    color: #93DB57;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
